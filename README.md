@@ -4,7 +4,7 @@ A comprehensive scholarship management platform built with React, Tailwind CSS, 
 
 ## 🌐 Live Demo
 
-- **Client:** [https://scholarstream-project.web.app](https://scholarstream-project.web.app)
+- **Client:** [https://scholarstreambd.web.app/](https://scholarstreambd.web.app/)
 - **Server:** [https://scholarstream-server.vercel.app](https://scholarstream-server.vercel.app)
 
 ## 🔑 Demo Credentials
